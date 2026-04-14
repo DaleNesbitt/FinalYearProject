@@ -1,14 +1,14 @@
-\# BLE + GPS Hybrid Location Tagging (ESP32)
+# BLE + GPS Hybrid Location Tagging (ESP32)
 
 
 
-\## Overview
+## Overview
 
 For my final year project I investigate how effectively Bluetooth Low Energy (BLE) and GPS can be combined to create a hybrid location-tagging system.
 
 
 
-\## Hardware
+## Hardware
 
 \- ESP32-2432S028R
 
@@ -18,7 +18,7 @@ For my final year project I investigate how effectively Bluetooth Low Energy (BL
 
 
 
-\## Structure
+## Structure
 
 \- /code = Arduino IDE sketches
 
@@ -28,7 +28,7 @@ For my final year project I investigate how effectively Bluetooth Low Energy (BL
 
 
 
-\## Key Findings
+## Key Findings
 
 \- BLE communication worked but MAC address was unstable
 
